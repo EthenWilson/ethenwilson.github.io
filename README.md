@@ -1,3 +1,5 @@
+![IMAGE](
+
 ## Welcome to Ethen's GitHub Page
 
 This page is to showcase my many different projects made in my Software Development Class.
@@ -22,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
