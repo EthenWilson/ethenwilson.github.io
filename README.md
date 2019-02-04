@@ -1,4 +1,4 @@
-![IMAGE](
+![IMAGE](https://github.com/EthenWilson/ethenwilson.github.io/blob/master/bob%20screenshot.PNG)
 
 ## Welcome to Ethen's GitHub Page
 
