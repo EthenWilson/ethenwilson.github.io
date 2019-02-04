@@ -1,12 +1,10 @@
 ## Welcome to Ethen's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/EthenWilson/ethenwilson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is to showcase my many different projects made in my Software Development Class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Clever Programmer
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Clever Programmer Project was a part of a rotation in the class. This included video lessons followed by a Turtle Art Project, as well as a Rock, Paper, Scissors program.
 
 ```markdown
 Syntax highlighted code block
