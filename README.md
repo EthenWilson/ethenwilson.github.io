@@ -11,20 +11,8 @@ The Clever Programmer Project was a part of a rotation in the class. This includ
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+# Turtle Art Project
+  The Turtle Art Project (shown on the top of the website) used a basic "for i in range" code that implemented angles and movements (along with penup and down, to create a very interesting star - like drawing. 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
