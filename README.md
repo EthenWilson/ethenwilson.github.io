@@ -21,12 +21,14 @@ Rock Paper Scissors (RPS) Game
 
 ### Microbit / Cyber Security Rotation
 
-###### Microbit (Days 4-6)
-  The Microbit project was definitely interesting. I think that working with this stripped down computer was fun! Using lights and some fun coding, I was able to produce a counter. This counter uses an "A" button, a "B" button, and uses both "A" and "B" buttons to count forward, backward, and reset the count respectively. 
+#### Microbit (Days 4-6)
+   The Microbit project was definitely interesting. I think that working with this stripped down computer was fun! Using lights and some 
+ fun coding, I was able to produce a counter. This counter uses an "A" button, a "B" button, and uses both "A" and "B" buttons to count 
+ forward, backward, and reset the count respectively. 
 
 Here is a link to the code:
 
-###### Cyber Security (Days 1-3)
+#### Cyber Security (Days 1-3)
 
 
 ### Support or Contact
