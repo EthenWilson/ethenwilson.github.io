@@ -20,11 +20,11 @@ Rock Paper Scissors (RPS) Game
   and using a random interger selection between 1-3 and assigning Rock ('r') to 1, Paper 
   ('p') to 2, and Scissors ('s') to 3.
   
-  Here is the link to the RPS game.
+  Here is the link to the RPS game:
   ![RPS](https://github.com/EthenWilson/rock-paper-scissors/blob/master/RPS%20Game)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
