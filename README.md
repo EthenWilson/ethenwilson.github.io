@@ -21,7 +21,7 @@ Rock Paper Scissors (RPS) Game
   ('p') to 2, and Scissors ('s') to 3.
   
   Here is the link to the RPS game:
-  ![RPS](https://github.com/EthenWilson/rock-paper-scissors/blob/master/RPS%20Game)
+  [RPS](https://github.com/EthenWilson/rock-paper-scissors/blob/master/RPS%20Game)
 ```
 
 
