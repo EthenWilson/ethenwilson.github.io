@@ -12,7 +12,16 @@ The Clever Programmer Project was a part of a rotation in the class. This includ
 Syntax highlighted code block
 
 # Turtle Art Project
-  The Turtle Art Project (shown on the top of the website) used a basic "for i in range" code that implemented angles and movements (along with penup and down, to create a very interesting star - like drawing. 
+  The Turtle Art Project (shown on the top of the website) used a basic "for i in range" 
+  code that implemented angles and movements (along with penup and down, to create a very 
+  interesting star-like drawing. 
+ 
+# Rock Paper Scissors (RPS) Game
+  The Rock Paper Scissors Game was a bit more difficult to make. It involved more thought
+  and using a random interger selection between 1-3 and assigning Rock ('r') to 1, Paper 
+  ('p') to 2, and Scissors ('s') to 3.
+  
+  Here is the link to the RPS game.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
